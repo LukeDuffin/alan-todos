@@ -1,6 +1,5 @@
 jam
 clams
-do something else
 ham
 spam
 lamb
