@@ -1,4 +1,5 @@
 jam
+clams
 ham
 spam
 lamb
