@@ -1,10 +1,10 @@
 clams
-five
-four
+5
+4
 ham
 lamb
-one
+1
 spam
 these things I added after I branched it
-three
-two
+3
+2
