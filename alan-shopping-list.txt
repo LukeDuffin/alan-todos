@@ -1,4 +1,3 @@
-jam
 clams
 ham
 spam
